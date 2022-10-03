@@ -1,0 +1,18 @@
+﻿  CancelEvent.cpp
+  Cargo.cpp
+  Company.cpp
+D:\projects\Shipping Company\Shipping Company\Company.cpp(220,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Event.cpp
+  main.cpp
+  Preparation.cpp
+  PromoteEvent.cpp
+  truck.cpp
+D:\projects\Shipping Company\Shipping Company\truck.cpp(57,36): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\projects\Shipping Company\Shipping Company\truck.cpp(61,37): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\projects\Shipping Company\Shipping Company\truck.cpp(73,12): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\projects\Shipping Company\Shipping Company\truck.cpp(225,108): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\projects\Shipping Company\Shipping Company\truck.cpp(235,79): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  UI.cpp
+  Generating Code...
+D:\projects\Shipping Company\Shipping Company\Cargo.cpp(39): warning C4715: 'Cargo::promote': not all control paths return a value
+  Shipping Company.vcxproj -> D:\projects\Shipping Company\Debug\Shipping Company.exe
